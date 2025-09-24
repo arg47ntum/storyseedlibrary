@@ -11,108 +11,108 @@ authors:
 
 [Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2023/12/21/solarpunk-village/)
 
-I’ve been thinking a lot about rural solarpunk lately. Idyllic farming scenes aside, there aren’t many depictions in solarpunk art of places that look like the towns where I’m from. But the towns where I’m from aren’t very solarpunk, despite being beautiful and full of nature. With cars, people have spread out in these sprawling bedroom communities that are becoming ever more dense with neighborhoods. Gas and groceries are easily a 40-minute drive away (more if you’re looking for a big box store), and I feel like most people I knew growing up drove at least an hour each way for work. When you live there, you’re completely dependent on your vehicles and you sometimes have at least one spare per household.
+Останнім часом я багато думав про сільський соларпанк. Не враховуючи ідилічні сцени сільського господарства, в мистецтві соларпанку не так багато зображень місць, схожих на міста, звідки я родом. Але міста, звідки я родом, не дуже соларпанкові, незважаючи на те, що вони красиві і сповнені природи. З появою автомобілів люди розселилися в цих розлогих спальних районах, які стають все більш густонаселеними. Заправки та магазини продуктів знаходяться на відстані 40 хвилин їзди (а якщо шукати великий супермаркет, то й більше), і мені здається, що більшість людей, яких я знав у дитинстві, їздили на роботу щонайменше годину в один бік. Коли ти живеш там, ти повністю залежиш від свого автомобіля, і іноді в кожній родині є принаймні один запасний.
 
-I’ve also been thinking about how these places might change with some of the societal crumbles and contractions I feel like are impending. Cars rely on a lot of infrastructure all over the world, from their manufacturing, to their maintenance, and fuel is a massive and complex tangle of technologies and politics, dependent on a ton of infrastructure for acquisition, refining, and transportation, and again, maintenance of all those systems. How would rural areas change if cars became impractical (due to shortages etc) and how could things be rebuilt better? Or what would they look like if cars had never taken off the way they did?
+Я також думав про те, як ці місця можуть змінитися в результаті деяких суспільних зрушень і скорочень, які, на мою думку, неминучі. Автомобілі залежать від великої кількості інфраструктури по всьому світу, від їх виробництва до технічного обслуговування, а паливо є величезним і складним сплетінням технологій і політики, що залежить від величезної кількості інфраструктури для придбання, переробки, транспортування і, знову ж таки, технічного обслуговування всіх цих систем. Як змінилися б сільські райони, якби автомобілі стали непрактичними (через дефіцит тощо), і як можна було б краще перебудувати ситуацію? Або як би вони виглядали, якби автомобілі ніколи не набули такого поширення?
 
-In my grandparents’ time, the region where I grew up was lots of small villages, usually bunched up around water and local industry, with farms and forests out beyond that.
+За часів моїх дідуся і бабусі регіон, де я виріс, складався з безлічі маленьких сіл, які зазвичай групувалися навколо водойм і місцевих промислових підприємств, а за їх межами розкинулися ферми і ліси.
 
-So I decided to build this scene around a similar place. A small dense village, served by multiple kinds of public transit, and surrounded by multiple examples of agroforestry, and rewilded forests beyond that.
+Тому я вирішив створити цю сцену навколо подібного місця. Невелике густонаселене село, до якого курсують різні види громадського транспорту, оточене численними прикладами агролісомеліорації, а за його межами — відновлені ліси.
 
-I realized pretty quickly that this is a bit bigger in scope than most of the things I’ve depicted before. In most of my scenes, I feel like you can usually assume everything else society needs is just out of frame, but with this photobash, aside from anything inside the buildings and under the canopy, you can see the whole place. So I had to try and make sure I included everything they’d need. I’m just one guy whose okay at cutting up images, and I don’t know much about community planning, so I reached out a few times for ideas.
+Я досить швидко зрозумів, що це завдання є дещо масштабнішим, ніж більшість речей, які я зображував раніше. У більшості моїх сцен, як мені здається, зазвичай можна припустити, що все інше, що потрібно суспільству, просто знаходиться поза кадром, але в цьому фотоколажі, крім того, що знаходиться всередині будівель і під навісом, можна побачити все місце. Тому я повинен був постаратися включити все, що їм може знадобитися. Я лише людина, яка непогано вміє вирізати зображення, і не дуже розбираюся в плануванні громад, тому кілька разів звертався за ідеями.
 
-And I received quite a few! I’ve tried to include every suggestion (assuming it would fit at this zoomed-out level). I’ve really enjoyed this process – I feel like any future worth building is going to be pretty collaborative and consensus-driven, so it makes sense to build our depictions of it the same way.
+І я отримав чимало пропозицій! Я намагався врахувати кожну з них (за умови, що вона підходила для цього рівня масштабування). Мені дуже сподобався цей процес — я вважаю, що будь-яке майбутнє, яке варто будувати, буде досить спільним і базуватиметься на консенсусі, тому логічно будувати наші уявлення про нього таким самим чином.
 
-So what’s in this scene:
+Що ж ми бачимо в цій сцені:
 
-Housing:
+Житло:
 
-- Apartment buildings: To get the density and walkability I've included a clump of four/five story brick apartment buildings (figuring brick can possibly be baked in solar kilns and transported by train) around an open common area near the train station. (I think it can probably be assumed that these are mixed use and the first floor of some are shops and third spaces).
+- Багатоповерхові будинки: щоб досягти необхідної щільності забудови та зручності для пішоходів, я включив групу чотири-/п'ятиповерхових цегляних багатоквартирних будинків (вважаючи, що цеглу можна випалювати в сонячних печах і транспортувати поїздом) навколо відкритої загальної зони поблизу залізничного вокзалу. (Я думаю, можна припустити, що ці будинки мають змішане призначення, а на першому поверсі деяких з них розташовані магазини та треті простори).
 
-- Multi-family homes
+- Багатосімейні будинки
 
-- Houses: further out on the edges of the village, and some along the farms
+- Будинки: далі на околицях села, а деякі вздовж ферм
 
-- Tiny homes: possibly some are used for visitors to the village, or just people who don’t need much space and want more privacy or a better location
+- Крихітні будинки: можливо, деякі з них використовуються для відвідувачів села або просто для людей, які не потребують багато місця і хочуть більше приватності або кращого розташування
 
-- An abandoned McMansion left over from an earlier age, far enough out and in bad enough shape that its not currently in use. Perhaps it will eventually be restored for use, or, if the damage is bad enough or no one needs it, perhaps it will be disassembled for parts/materials.
+- Занедбана розкішна вілла, що залишилася від минулих часів, розташована досить далеко і в такому поганому стані, що зараз не використовується. Можливо, її з часом відреставрують для використання, а якщо пошкодження занадто серйозні або нікому вона не потрібна, то, можливо, її розберуть на частини/матеріали.
 
-Recreation:
+Дозвілля:
 
-- An open common area/farmer's market/sometimes sports field
+- Відкрита загальна зона/фермерський ринок/іноді спортивний майданчик
 
-- The top of the train station is an open park and set of community gardens Some rooftops are community gardens
+- Верхня частина залізничного вокзалу - це відкритий парк і комплекс громадських садів. Деякі дахи - це громадські сади
 
-- Pond and surrounding park, possibly stocked with fish for the meat eaters, possibly used for ice harvesting in the winter.
+- Ставок і прилеглий парк, можливо, зарибнений для м'ясоїдів, можливо, використовувався для заготівлі льоду взимку.
 
-- The river below the village (I'm trying to make it clear the main river swings below the village and there's a bit of a riparian buffer around it)
+- Річка нижче села (я намагаюся пояснити, що головна річка протікає нижче села і навколо неї є невелика прибережна буферна зона)
 
-- Public amphitheater – one of the only man-made structures on the flood plane.
+- Громадський амфітеатр – одна з небагатьох споруд, збудованих людиною на заплаві.
 
-- The billboard in the foreground is part of a project inside the setting, where they’ve replaced any advertizements on the remaining billboards with artwork, just as a sort of public outdoor art gallery. I wanted to emphasize that this is a society that puts up art for its own sake and to contrast that with our world and its endless advertisements. 
+- Білборд на передньому плані є частиною проекту в межах цієї локації, де всі рекламні оголошення на білбордах, що залишилися, замінили на твори мистецтва, створивши таким чином своєрідну громадську галерею мистецтва під відкритим небом. Я хотів підкреслити, що це суспільство, яке виставляє мистецтво заради самого мистецтва, і протиставити це нашому світу з його нескінченними рекламними оголошеннями. 
 
-- Under the tree canopy there’d be parks, playgrounds, and other third places.
+- Під кронами дерев будуть розташовані парки, ігрові майданчики та інші місця для відпочинку.
 
-- Public workshops/makerspaces
+- Громадські майстерні/простори для творчості
 
-- Tons of hiking, cross country skiing, snowshoeing, etc.
+- Безліч можливостей для піших прогулянок, бігових лиж, снігоступів тощо.
 
-Public transit:
+Громадський транспорт:
 
-- Train/train station: the train station is partially underground (or is at least covered over) and I like to think the station opens into the basements/first floors of some of those apartment buildings. With high speed rail, these villages could be 'close' enough to the city to function like suburbs, without the vehicle traffic, and while giving better access to rural spaces.
+- Поїзд/залізнична станція: залізнична станція частково знаходиться під землею (або принаймні накрита дахом), і мені подобається думати, що станція виходить у підвали/перші поверхи деяких з цих багатоквартирних будинків. Завдяки високошвидкісній залізниці ці села могли б бути «досить близько» до міста, щоб функціонувати як передмістя, без автомобільного руху, і водночас забезпечувати кращий доступ до сільських територій.
 
-- Ropeway to a nearby village not directly served by the train
+- Канатна дорога до сусіднього села, яке не обслуговується безпосередньо поїздом.
 
-- Agriculture:
+Сільське господарство:
 
-- Agroforestry: in the foreground we mostly have alley cropping, in the back it looks more like strip cropping or wind breaks. There’s a riparian boundary around the river, and the forest in and around the village is a food forest where people can forage (in addition to sheltering parks, playgrounds, and other things). I’m not any kind of expert on agroforestry, sorry if my depictions have issues.
+- Агролісомеліорація: на передньому плані ми в основному бачимо алеї з польовими культурами, а на задньому плані це більше схоже на смугові посіви або вітрозахисні смуги. Навколо річки простягається прибережна межа, а ліс у селі та навколо нього є харчовим лісом, де люди можуть збирати їжу (крім того, що він служить укриттям для парків, ігрових майданчиків та інших об'єктів). Я не є експертом з агролісомеліорації, вибачте, якщо мої описи мають недоліки.
 
-- A small paulownia elongata pollard plantation (tucked between the barn/recycling warehouse and the biogas generator and algae farm because the wrong type of this tree can be invasive) which are used for woodgas, and also for shelter for animals, possibly goats, who would also help prevent invasive shoots from spreading.
+- Невелика плантація павловнії довгастої (розташована між коморою/складом для переробки відходів, біогазовим генератором та фермою водоростей, оскільки неправильний вид цього дерева може бути інвазивним), яка використовується для виробництва деревного газу, а також для укриття тварин, можливо кіз, які також допомагають запобігати поширенню інвазивних пагонів.
 
-- Solar panel farm with crops planted underneath
+- Ферма сонячних панелей з посівами під ними
 
-- Algae farm (for nutrients or biodiesel?)
+- Ферма водоростей (для поживних речовин або біодизеля?)
 
-- Greenhouses/Walpinis set into the south-facing hillside
+- Теплиці, розташовані на південному схилі пагорба
 
-- Compost windrows with negative pressure airflow pulling CO2 into the greenhouses/algae farm.
+- Компостні валки з потоком повітря під негативним тиском, що затягує CO2 в теплиці/ферму водоростей.
 
-- Grain bins for storage
+- Зернові бункери для зберігання
 
-- Snow vaults (something proposed in a previous discussion thread) where snow can be plowed into cellar hole type structures, where the cold can be used to cool buildings or the nearby animal barn (these are on the left side of the village), and the snowmelt used in agriculture. A deck and walkways covers part of the open top of this structure, and a roller door laying flat is currently closed.
+- Снігові сховища (щось, запропоноване в попередній дискусії), де сніг можна загрібати в споруди типу підвальних ям, де холод можна використовувати для охолодження будівель або сусідніх тваринницьких приміщень (вони знаходяться в лівій частині села), а талий сніг використовувати в сільському господарстві. Частина відкритої верхньої частини цієї споруди покрита настилом і доріжками, а горизонтальні ролетні ворота наразі закриті.
 
-Industry:
+Галузі:
 
-- Workshops/factories: some have waterwheels (fed using a levada-style stone channel split from the main river), others are set up on higher ground.
+- Майстерні/фабрики: деякі мають водяні колеса (що живляться за допомогою кам'яного каналу типу левада, відгалуженого від головної річки), інші розташовані на більш високій місцевості.
 
-- Road leading down to town, with a work crew hauling back an old car for recycling. Perhaps there’s a bounty-type system in place, and this will be loaded on a train to be melted down in a solar furnace further south.
+- Дорога, що веде до міста, з робочою бригадою, яка везе старий автомобіль на переробку. Можливо, існує система винагород, і цей автомобіль буде завантажено на поїзд, щоб переплавити його в сонячній печі далі на південь.
 
-Power sources:
+Джерела живлення:
 
-- Solar farm and rooftop solar
+- Сонячна електростанція та сонячні панелі на даху
 
-- Windmills (though these may belong to the next village)
+- Вітряки (хоча вони можуть належати сусідньому селу)
 
-- Anaerobic Biogas Generation from sewage
+- Анаеробне виробництво біогазу з каналізаційних стоків
 
-- Gas generator converted to run on woodgas
+- Газовий генератор, переобладнаний для роботи на деревному газі
 
-- Not visible from here:
+Невидимі звідси:
 
-Under the canopy/ 
+Під навісом
 
-- Food forests 
+- Харчові ліси 
 
-- Parks 
+- Парки 
 
-- Playgrounds
+- Ігрові майданчики
 
-Inside the buildings: 
+Всередині будівель: 
 
-- Places of worship 
+- Місця богослужіння
 
-- Cafeterias 
+- Кафетерії 
 
-- Other third places
+- Інші треті місця
 
-Overall I think I'll stick to scenes with a narrower scope in the future, but I am pleased with how this came out and what I hope it has
+Загалом, думаю, в майбутньому я буду дотримуватися сцен з більш вузьким охопленням, але я задоволений тим, як це вийшло.
